@@ -69,4 +69,7 @@
 
 - **Vehicle Detection: A Comparative Study of YOLO Models in Vehicle Detection**
   - *Presented at the International Conference (ICDIER) 2023.*
+- **PS-GRNN: A Protocol-State-Gated Recurrent Neural Network for Interpretable Intrusion Detection**
+  - *Presented at the 9th International Conference on Innovative Computing and Communication (ICICC-2026).*
+
 
