@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a 4th-year **B.Tech Computer Science Engineering (AI & ML)** student at **SRM Institute of Science and Technology, Trichy**. (CGPA: 8.78, Expected Graduation: 2027)
+- 🎓 I'm a 4th-year **B.Tech Computer Science Engineering (AI & ML)** student at **SRM Institute of Science and Technology, Trichy**. (CGPA: 8.72, Expected Graduation: 2027)
 - 💼 Previously worked as an **Intern at PDI Technologies**, focusing on real-time data analysis and anomaly detection.
 - 🚀 Passionate about leveraging AI for real-world impact and data-driven decision-making.
 - 🏆 **HACKELITE 2023 Finalist** & published researcher in vehicle detection using YOLO models.
