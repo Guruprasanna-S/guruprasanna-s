@@ -50,12 +50,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-| ------- | ----------- |
-| 📖 **Dyslexia-Reader-AI** | A Smart Browser Extension for Accessible Reading using Transformers, Real-Time Readability Metrics, and Multilingual Speech Synthesis. |
-| 🚦 **RL-Traffic-Management-System** | A reinforcement learning based system for intelligent and dynamic traffic management. |
-| 🛡️ **PS-GRNN-Digital-Immune-System** | Syntax-Aware AI-Based Protocol Verification System for robust network security and threat detection. |
-| 🚘 **PotholeGuard** | An automated pothole detection system built with computer vision for safer roads. |
+- 📖 [**Dyslexia-Reader-AI**](https://github.com/Guruprasanna-S/Dyslexia-Reader-AI) - A Smart Browser Extension for Accessible Reading.
+- 🚦 [**RL-Traffic-Management-System**](https://github.com/Guruprasanna-S/RL-Traffic-Management-System) - A reinforcement learning based system for intelligent traffic management.
+- 🛡️ [**PS-GRNN-Digital-Immune-System**](https://github.com/Guruprasanna-S/PS-GRNN-Digital-Immune-System) - Syntax-Aware AI-Based Protocol Verification System.
+- 🌱 [**agri-procure-system**](https://github.com/Guruprasanna-S/agri-procure-system) - An agricultural procurement system.
+- 💧 [**PotholeGuard**](https://github.com/Guruprasanna-S/PotholeGuard) - Automated pothole detection system for safer roads.
 
 ## 📜 Certifications
 
@@ -75,7 +74,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guruprasanna-S&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guruprasanna-S&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
