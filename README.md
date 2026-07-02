@@ -36,7 +36,7 @@
 </p>
 
 **Core Competencies:**
-- **Languages:** Python, C
+- **Languages:** Python
 - **Databases:** MySQL, MongoDB
 - **Cloud & Data:** Snowflake, AWS, Google Cloud
 - **Domains:** Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing (NLP), Computer Vision (YOLO)
